@@ -31,6 +31,7 @@ You could take a look at the XGBoost.ipynb file above or go here:
 
 ⚠ _Colab provides a temporary environment: anything you do will be deleted after a while, so make sure you download any data you care about._
 
+An executable script file (.py) is also provided if that's more your style.
 
 ## Requirements
 
