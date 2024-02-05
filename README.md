@@ -18,9 +18,17 @@ This repository supplies the code of developing a Machine Learning (ML) model th
 
 ## Quick Start
 
+### Just want to quickly look at the notebook, without executing any code?
 
+You could take a look at the XGBoost.ipynb file above or go here: 
 
+<a href="https://nbviewer.jupyter.org/github/skypatchw/Smoking-Status/blob/main/XGBoost.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
+### Want to play around with the code online without having to install anything?
+
+* <a href="https://colab.research.google.com/github/skypatchw/Smoking-Cessation.git" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+⚠ _Colab provides a temporary environment: anything you do will be deleted after a while, so make sure you download any data you care about._
 
 ## Requirements
 
